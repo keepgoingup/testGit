@@ -9,7 +9,7 @@ public class Hello {
 		System.out.println("主干添加");
 		System.out.println("分支添加");
 		System.out.println("第二次提交之前更新2 ");
-		System.out.println("绗簩娆″湪绾挎洿鏂�");
+		System.out.println("我的修改123");
 		
 	}
 
